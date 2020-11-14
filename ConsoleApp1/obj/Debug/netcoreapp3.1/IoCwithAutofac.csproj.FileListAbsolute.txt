@@ -1,0 +1,16 @@
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\bin\Debug\netcoreapp3.1\IoCwithAutofac.exe
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\obj\Debug\netcoreapp3.1\IoCwithAutofac.csprojAssemblyReference.cache
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\obj\Debug\netcoreapp3.1\IoCwithAutofac.AssemblyInfoInputs.cache
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\obj\Debug\netcoreapp3.1\IoCwithAutofac.AssemblyInfo.cs
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\bin\Debug\netcoreapp3.1\IoCwithAutofac.deps.json
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\bin\Debug\netcoreapp3.1\IoCwithAutofac.runtimeconfig.json
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\bin\Debug\netcoreapp3.1\IoCwithAutofac.runtimeconfig.dev.json
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\bin\Debug\netcoreapp3.1\IoCwithAutofac.dll
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\bin\Debug\netcoreapp3.1\IoCwithAutofac.pdb
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\bin\Debug\netcoreapp3.1\Autofac.dll
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\obj\Debug\netcoreapp3.1\IoCwithAutofac.csproj.CoreCompileInputs.cache
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\obj\Debug\netcoreapp3.1\IoCwithAutofac.csproj.CopyComplete
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\obj\Debug\netcoreapp3.1\IoCwithAutofac.dll
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\obj\Debug\netcoreapp3.1\IoCwithAutofac.pdb
+G:\Learning\Autofac\IocwithAutofac\ConsoleApp1\obj\Debug\netcoreapp3.1\IoCwithAutofac.genruntimeconfig.cache

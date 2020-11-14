@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCwithAutofac", "ConsoleApp1\IoCwithAutofac.csproj", "{4BB2BBF1-BD4F-46FA-A0F6-7C50605E65EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB2BBF1-BD4F-46FA-A0F6-7C50605E65EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB2BBF1-BD4F-46FA-A0F6-7C50605E65EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB2BBF1-BD4F-46FA-A0F6-7C50605E65EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB2BBF1-BD4F-46FA-A0F6-7C50605E65EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30AA63A7-4910-437E-9F38-3611711C540A}
+	EndGlobalSection
+EndGlobal

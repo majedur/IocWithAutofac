@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iXkYrW7ys/a2jxKimnQOaQHWZU/fpXXB7+78rx6YSwn2Lio5/Q5PLJ4kWbJ6GjfEpqXK4faRn+NaKaXNAxw8EA==",
+  "success": true,
+  "projectFilePath": "G:\\Learning\\Autofac\\IocwithAutofac\\ConsoleApp1\\IoCwithAutofac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
